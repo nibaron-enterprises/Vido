@@ -1,0 +1,6 @@
+{
+  "name": "FrameHTML",
+  "description": "Convert any HTML, CSS, SVG, or Canvas animation into a downloadable MP4 or WebM video directly in your browser without sign-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
